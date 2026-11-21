@@ -5,7 +5,7 @@
             "name": "Our Little Home",
             "bundleIdentifier": "com.ourlittlehome.app",
             "developerName": "Maddie McCarthy",
-            "localizedDescription": "A cozy matcha latte: sift 1 tsp matcha into a bowl, add 2 oz of hot water (about 80°C / 175°F), and whisk in a zigzag until frothy. Pour over 6 oz of steamed or iced milk, sweeten with a little honey, and enjoy at home.",
+            "localizedDescription": "A cozy home for sharing chores with the person you live with. Log work you've already done with one tap, schedule one-off and recurring tasks, and see what's due today or overdue. Browse a shared journal of everything you've both done and gentle stats on how the work is split, with no scores and no shame. Each of you also gets a private Personal Admin space for your own errands.",
             "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/our-little-home/main/icon.png",
             "screenshots": [
                 "https://raw.githubusercontent.com/maddiemccarthy/our-little-home/main/screenshots/1-home.png",
