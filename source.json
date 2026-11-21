@@ -1,0 +1,37 @@
+{
+    "name": "Our Little Home",
+    "apps": [
+        {
+            "name": "Our Little Home",
+            "bundleIdentifier": "com.ourlittlehome.app",
+            "developerName": "Maddie McCarthy",
+            "localizedDescription": "A cozy matcha latte: sift 1 tsp matcha into a bowl, add 2 oz of hot water (about 80°C / 175°F), and whisk in a zigzag until frothy. Pour over 6 oz of steamed or iced milk, sweeten with a little honey, and enjoy at home.",
+            "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/our-little-home/main/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/maddiemccarthy/our-little-home/main/screenshots/1-home.png",
+                "https://raw.githubusercontent.com/maddiemccarthy/our-little-home/main/screenshots/2-tasks.png",
+                "https://raw.githubusercontent.com/maddiemccarthy/our-little-home/main/screenshots/3-journal.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "date": "2026-11-21",
+                    "downloadURL": "https://github.com/maddiemccarthy/our-little-home/releases/download/v1.0/OurLittleHome-1.0.ipa",
+                    "size": 1800342,
+                    "minOSVersion": "17.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "application-identifier",
+                    "com.apple.developer.team-identifier",
+                    "get-task-allow",
+                    "keychain-access-groups"
+                ],
+                "privacy": {}
+            }
+        }
+    ],
+    "news": []
+}
